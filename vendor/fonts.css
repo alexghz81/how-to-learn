@@ -12,9 +12,9 @@
   font-weight: bold;
 }
 
-/*@font-face {*/
-/*  src: url("../fonts/inter-semibold.woff") format("woff"),*/
-/*        url("../fonts/inter-semibold.woff2") format("woff2");*/
-/*  font-family: "Inter";*/
-/*  font-weight: auto;*/
-/*}*/
+@font-face {
+  src: url("fonts/inter-semibold.woff") format("woff"),
+        url("fonts/inter-semibold.woff2") format("woff2");
+  font-family: "Inter";
+  font-weight: 600;
+}
