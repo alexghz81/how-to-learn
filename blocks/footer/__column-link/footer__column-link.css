@@ -1,22 +1,21 @@
 .footer__column-link{
   margin-bottom: 10px;
-}
-
-.footer__column-link:last-child {
-  margin-bottom: 0;
-}
-
-.footer__column-link a{
   text-decoration: none;
   color: #fff;
   font-size: 18px;
   line-height: 18px;
   font-weight: normal;
+  display: inline-block;
+
 }
 
-.footer__column-link a:hover {
-  color: #2f80ed;
-  transition: color .2s ease-in;
+/*.footer__column-link:last-child {*/
+/*  margin-bottom: 0;*/
+/*}*/
+
+.footer__column-link:hover {
+  opacity: .5;
+  transition: opacity .2s ease-in;
 }
 
 .footer__column-link img {
