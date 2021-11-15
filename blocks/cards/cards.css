@@ -3,5 +3,5 @@
   max-width: 920px;
   flex-wrap: wrap;
   width: 100%;
-  grid-gap: 0 100px;
+  gap: 0 100px;
 }
