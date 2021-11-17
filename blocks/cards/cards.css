@@ -1,7 +1,6 @@
 .cards {
-  display: flex;
-  max-width: 920px;
-  flex-wrap: wrap;
-  width: 100%;
-  gap: 0 100px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  width: 920px;
+  grid-gap: 0 100px;
 }
