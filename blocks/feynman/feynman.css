@@ -1,7 +1,7 @@
 .feynman {
-  padding-top: 100px;
-  height: 790px;
-  justify-content: center;
+  height: 890px;
+  /*display: block;*/
+  /*justify-content: center;*/
   margin: 0 auto;
   background-color: #f2f2f2;
   text-align: center;
