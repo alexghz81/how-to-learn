@@ -4,5 +4,6 @@
   background-color: #1f1f1f;
   color: #fff;
   display: flex;
+  box-sizing: border-box;
   padding: 60px 0 40px;
 }
